@@ -1,0 +1,11 @@
+Links
+https://www.geeksforgeeks.org/source-to-source-compiler/
+https://www.codeporting.app/convert/
+/* Important
+https://en.wikipedia.org/wiki/Source-to-source_compiler
+*/
+https://docs.python.org/3/library/tokenize.html
+https://stackoverflow.com/questions/43878504/how-can-i-convert-string-to-source-code-in-python
+https://www.tangiblesoftwaresolutions.com/
+https://github.com/jagadeeshpj/morsecode-converter-using-python-with-documentation
+https://github.com/pankubhaiya/CodeConverter
